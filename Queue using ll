@@ -1,5 +1,4 @@
-# A Linked List Node
-
+# python program for linked list
 class Node:
 
     def __init__(self, data, left=None, right=None):
